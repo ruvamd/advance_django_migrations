@@ -1,1 +1,1 @@
-# django_migrations-advance-
+# advance_django_migrations
